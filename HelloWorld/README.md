@@ -1,2 +1,0 @@
-# HelloWorld
-Just a practice
